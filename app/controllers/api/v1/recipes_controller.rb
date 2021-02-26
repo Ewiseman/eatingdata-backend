@@ -31,16 +31,31 @@ module Api::V1
     end
 
     def destroy
-      @recipes = Recipe.find(params[:id])
-      @recipes.destroy
+      @recipe = Recipe.find(params[:id])
+      if @recipe.destroy
+        head :no_content, status: :ok
+      else
+        render json: @event.errors, status: :unprocessable_entity
+      end
     end
     ###############################################################
     private
 
     def recipe_params
       params
-          .require(:recipe)
-          .permit(:company, :position, :description)
+        .require(:recipe)
+        .permit(
+            :id,
+            :name,
+            :protein,
+            :cusine_region,
+            :on_the_menu,
+            :vegetarian,
+            :vegan,
+            :dairy_free,
+            :directions,
+            :multiplier,
+            :health_factor)
     end
 
   end
