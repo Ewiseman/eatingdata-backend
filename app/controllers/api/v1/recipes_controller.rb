@@ -3,21 +3,20 @@ module Api::V1
 
     def index
       @recipes = Recipe.all
-      render json: @recipes
     end
 
     def show
-      @recipes = Recipe.find(params[:id])
-      render json: @recipes
+      @recipe = Recipe.find(params[:id])
+      render json: @recipe
     end
 
     def create
-      @recipes = Recipe.new(recipe_params)
+      @recipe = Recipe.new(recipe_params)
 
-      if @recipes.save
-        render json: @recipes, status: :created
+      if @recipe.save
+        render json: @recipe, status: :created
       else
-        render json: @recipes.errors, status: :unprocessable_entity
+        render json: @recipe.errors, status: :unprocessable_entity
       end
     end
 
@@ -55,7 +54,8 @@ module Api::V1
             :dairy_free,
             :directions,
             :multiplier,
-            :health_factor)
+            :health_factor,
+            :front_end_id)
     end
 
   end
