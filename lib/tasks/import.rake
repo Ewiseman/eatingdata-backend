@@ -31,4 +31,31 @@ namespace :import do
         end
     end
 
+    desc "Import Ingredients from CSV"
+    task ingredients: :environment do 
+        filename = File.join Rails.root, "ingredients.csv"
+        CSV.foreach(filename) do |row|
+            id,name,category,created_at,updated_at = row
+            Ingredient.create!(id: id, 
+                        name: name,
+                        category: category, 
+                       )
+        end
+    end
+
+    desc "Import Measurements from CSV"
+    task measurements: :environment do 
+        filename = File.join Rails.root, "measurements.csv"
+        CSV.foreach(filename) do |row|
+            id,unit,type_of_measurement,description,recipe_id,ingredient_id,created_at,updated_at,ingredient_order = row
+            Measurement.create!(id: id, 
+                        unit: unit,
+                        type_of_measurement: type_of_measurement, 
+                        description: description,
+                        recipe_id: recipe_id,
+                        ingredient_id: ingredient_id
+                       )
+        end
+    end
+
 end 
