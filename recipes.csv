@@ -1,0 +1,249 @@
+1,Green Juice,Vegetarian,NULL,No Region,Drink,false,true,true,true,2019-01-04 13:41:08.262032,2019-08-02 19:18:32.369862,"1) Wash all ingredients.
+
+2) Quarter the apples
+
+3) Peel the lemons with a knife. 
+
+4) Put all in juicer",3,5,15
+20,Chicken Bowl,Chicken,NULL,No Region,Main Dish,false,false,false,false,2019-01-16 23:09:28.965757,2019-08-25 20:01:06.312937,"1) Cook chicken - grill or cast iron skillet.
+
+2) Slice Carrots and Kale
+
+3) Cook carrots - steam or on the stove.
+
+4) Cook Kale on the stove with Olive Oil. 
+
+5) Microwave Rice
+
+6) Distribute all ingredients to bowl.
+",1,5,14
+21,Jalapeno Lime Steak Tacos,Steak,NULL,Mexican,Main Dish,false,false,false,true,2019-01-17 04:34:59.476398,2020-03-11 19:22:00.890003,"1) Combine jalapeño, garlic, cilantro, lime juice, oil, salt, pepper, and cumin in a large resealable bag or bowl. 
+
+2) Add steak and toss to coat; if using bowl, wrap with plastic. Marinate at least 30 minutes at room temperature or chill up to overnight in refrigerator, tossing occasionally.
+
+3) Let steak sit at room temperature 30 minutes before cooking if chilled. Prepare a grill or grill pan for medium-high heat. 
+
+4) Remove steak from marinade, scraping off any bits that cling to meat; discard marinade. 
+
+5) Grill steak 2–3 minutes per side for medium-rare. Let rest 10 minutes before thinly slicing against the grain.",3,5,15
+72,Spicy Lime Chicken Tacos with Cabbage Slaw,Chicken,108,Mexican,Main Dish,false,false,false,true,2020-04-16 14:37:02.098712,2020-04-20 16:18:20.322771,,1,5,1
+18,Salmon,Salmon,NULL,,Main Dish,false,false,false,true,2019-01-16 23:05:56.120053,2020-04-20 16:21:42.22583,,4,5,14
+13,"Pork Loin with Sweet Potato Apple, and Pear Smash",Pork,145,American,Main Dish,false,false,false,false,2019-01-08 22:47:46.956025,2019-02-06 19:01:08.384081,,1,3,14
+14,"Chicken, Lime, and Avocado Soup",Chicken,93,Mexican,Soup,false,false,false,true,2019-01-08 23:01:27.467676,2019-02-06 18:02:56.370415,,1,3,13
+5,Crustless Quiche,Eggs,25,American,Main Dish,false,true,false,false,2019-01-04 17:00:22.051988,2019-02-06 18:58:16.84073,"1) Preheat oven to 375 degrees. 
+
+2) In a bowl, whisk eggs until smooth.  
+
+3) Add the milk whisk thoroughly. 
+
+4) Add the bread cubes and wait 2-3 minutes.
+
+5) In a large oven-safe skillet, heat olive oil over medium-high heat.   Add the leek and asparagus and saute for 1 minute.  Season with salt.
+
+6) Add the egg mixture to the leeks and asparagus in the skillet.  
+
+7) Reduce heat to medium and stir in the cheese and cabbage. 
+
+8) Bake for 25 minutes or until set. 
+
+9) Let rest for 5 minutes on cooling rack.  Slice and serve.",1,4,3
+19,Grilled Chicken,Chicken,NULL,,Main Dish,false,false,false,false,2019-01-16 23:07:16.119167,2019-12-17 19:11:31.97759,,2,5,14
+33,Roasted Root with Chicken,Chicken,160,No Region,Main Dish,false,false,false,true,2019-02-09 19:59:26.490958,2020-04-16 14:29:05.741955,,2,NULL,2
+34,Chicken Avocado Collard Wraps,Chicken,166,No Region,Main Dish,false,false,false,true,2019-02-09 20:12:47.278272,2020-03-20 01:52:24.519795,,2,5,2
+32,Pork and Tomatillos Soup,Pork,98,Mexican,Soup,false,false,false,true,2019-02-09 19:37:29.003308,2019-02-09 19:39:36.545423,,1,4,2
+8,Casava Flour Tortillas,Vegetarian,NULL,Mexican,Baked Good,false,true,true,true,2019-01-05 16:52:47.580321,2019-02-06 18:57:33.407239,"1) Combine ingredients for the tortillas in a medium size bowl and mix together until well combined. The dough should stick together and be a smooth consistency.
+
+2) Divide the dough into 10 equal parts and shape into balls. On a piece of parchment paper roll and pat each section of dough into a thin tortilla. You can use your hands or a rolling pin for this. If the dough is sticking sprinkle lightly with cassava flour.
+
+3) Heat a fry pan on the stove over medium/low heat. Drizzle the pan lightly with olive oil for cooking.
+
+4) Cook the tortillas for about 1-3 minutes in each side until it reaches desired consistency. You can make them crisp or soft. It's up to your personal preference!",2,5,15
+35,Thai Coconut Chicken Soup,Chicken,171,Asian,Soup,false,false,false,true,2019-02-09 20:21:31.099337,2020-04-06 16:12:32.548229,,2,5,2
+6,Bison Tacos,Bison,NULL,Mexican,Main Dish,false,false,false,false,2019-01-05 16:24:07.224081,2020-07-08 14:48:55.499714,"1) In a small bowl, mix together chili powder, garlic powder, onion powder, red pepper flakes, oregano, paprika, cumin, salt, and pepper. 
+
+2) Heat olive oil on medium-high heat and cook onion and garlic for 2 minutes. 
+
+3) Brown bison for 1 - 2 mins.  Add spice mixture and stir until fully incorporated. 
+
+4) Drain Excess liquid from cooked meat.  
+
+",2,5,14
+17,Cauliflower Thai Rice,Vegetarian,133,Asian,Main Dish,false,true,true,true,2019-01-16 23:01:54.964273,2020-05-20 22:48:38.56369,,2,5,1
+12,Salmon Bowl,Salmon,NULL,No Region,Main Dish,false,false,false,true,2019-01-05 17:49:04.787401,2020-06-14 21:41:24.076413,,1,5,14
+15,Spice Turkey Lettuce Wraps,Turkey,105,No Region,Main Dish,true,false,false,true,2019-01-08 23:15:07.212792,2020-07-14 14:23:54.993664,,2,4,1
+30,Crispy Turkey With Lemon and Herbs,Turkey,135,Mediterranean,Main Dish,false,false,false,true,2019-02-09 19:19:13.752611,2020-07-08 14:45:14.654299,,2,5,2
+23,Pureed Parsnips,Vegetarian,196,,Side Dish,false,true,true,true,2019-01-27 16:03:17.276455,2020-06-01 22:54:50.611312,"1)Preheat oven to 400 degrees F.
+
+2) Place the parsnips in a bowl and toss to coat evenly with the cooking fat and salt.
+
+3) Place in a baking dish and cook in the oven for 1 hour or until soft, stirring a couple of times while cooking. 
+
+4) Puree in a high powered blender or food processor until desired consistency is reached (you may like pureed parsnips a bit on the chunky side or smooth), adding more fat if necessary.  Serve warm.",2,5,8
+24,Fried Chicken - Dairy Free,Chicken,106,American,Main Dish,false,false,false,true,2019-02-01 20:19:51.891847,2020-07-14 14:21:08.345483,,1,5,16
+4,Kale Salad,Vegetarian,64,American,Salad,false,true,false,false,2019-01-04 16:48:06.65899,2020-06-14 21:43:41.280974,"1) In a salad bowl, whisk together oil, lemon juice, garlic, salt, and red pepper.
+
+2) Add the Kale and toss to coat well. 
+
+3) Let sit at room temperature for 10-30 mins. 
+
+4) Add the grated cheese and bread crumbs and toss again. 
+
+5) Garnish with shaved cheese. ",1,5,3
+7,Guacamole,Vegetarian,NULL,Mexican,Sauce / Dressing,false,true,true,true,2019-01-05 16:40:34.699156,2020-07-14 14:21:25.915806,,3,5,14
+3,Butternut Squash Soup,Vegetarian,97,American,Soup,true,true,true,true,2019-01-04 14:13:09.772124,2020-07-14 14:23:05.55546,"1) Preheat the oven to 400 degrees.
+
+2) Put squash, apples, onions, and garlic in large bowl and toss with oil, salt, and cayenne.
+
+3) Arrange the mixture in a single layer on the prepared baking sheet and roast until lightly browned, about 45 minutes. 
+
+4) Allow ingredients to cool for 20 minutes. 
+
+5) Transfer to the blender and slowly blend until smooth.
+
+6) Add 1 and 1/4 cup water to the mixture a 1/4 at a time.  Until soup has desired consistency.  
+
+7) Return to the pot, whisk in the Cashew Milk.
+
+8) Reheat if needed.  ",1,4,3
+40,Sausage and Peppers,Pork,111,Italian,Main Dish,false,false,false,true,2019-02-11 20:45:09.065267,2019-02-11 20:45:09.065267,,1,4,16
+41,Chocolate Chips Paleo Cookies,Vegetarian,180,American,Main Dish,false,true,true,true,2019-02-11 20:50:35.065941,2019-02-11 20:50:35.065941,,2,5,16
+37,Salmon Burgers,Salmon,97,American,Main Dish,false,false,false,true,2019-02-11 20:26:48.897031,2020-01-21 02:39:09.726155,,2,5,16
+29,Bison Burgers with Roasted Shaved Brussel Sprouts and Crispy Shallots,Bison,35,American,Main Dish,false,false,false,true,2019-02-09 19:05:23.811699,2019-10-27 19:43:25.919093,,2,NULL,2
+31,Thai Red Beef Curry with Green Beans,Steak,77,Asian,Soup,false,false,false,true,2019-02-09 19:31:04.509024,2019-03-12 16:43:25.398389,,2,NULL,2
+42,Decadent Grain-Free Beet Brownies,Vegetarian,183,No Region,Desert,false,true,true,true,2019-02-11 20:55:50.884001,2019-02-17 23:49:29.444671,,1,NULL,16
+39,Dairy Free Ranch,Vegetarian,82,American,Sauce / Dressing,false,true,false,true,2019-02-11 20:39:29.471131,2020-03-03 13:31:55.501519,,1,4,16
+57,Chipotle Garlic Salsa,Vegetarian,107,Mexican,Sauce / Dressing,false,true,true,true,2019-08-02 19:08:11.579247,2019-12-17 19:11:21.459332,"Place the garlic and chipotles in a food processor and pulse to chop finely, scraping down the sides as needed.  Add the mayonnaise, lime juice, and salt and puree until smooth.",1,5,7
+54,Italian Sausage Pasta,Pork,NULL,Italian,Main Dish,false,false,false,false,2019-06-04 18:58:52.35103,2019-06-13 18:48:59.147356,,1,5,14
+48,Chipotle Chile and Garlic Salsa,Vegetarian,61,Mexican,Sauce / Dressing,false,true,true,true,2019-03-12 17:08:37.552247,2019-07-06 23:17:21.040199,,1,3,7
+52,Grandma's Green Soup,Vegetarian,79,No Region,Soup,false,true,true,true,2019-04-12 14:51:36.199021,2019-11-01 15:42:19.223588,,1,5,10
+58,Vegan Mayonnaise,Vegetarian,74,No Region,Sauce / Dressing,false,true,true,true,2019-08-02 19:12:51.651297,2019-08-25 19:55:33.252186,,1,5,1
+59,Homemade Mayonnaise,Eggs,74,No Region,Sauce / Dressing,false,true,false,true,2019-08-02 19:16:19.747043,2019-08-25 19:56:43.66169,,1,5,1
+46,Habenero Salsa,Vegetarian,51,Mexican,Sauce / Dressing,false,true,true,true,2019-03-12 16:50:07.794795,2020-01-03 15:02:01.638602,,1,4,7
+55,Chicken - Bone Broth,Chicken,NULL,American,Soup,false,false,false,true,2019-08-02 18:50:44.19123,2020-01-20 20:58:58.213322,"1) Quarter Chicken
+2) Boil chicken for 45 mins
+3) Remove chicken and chill for 20 mins
+4) Use hands to remove meat from bones, set meat aside.
+5) Add bones back in and boil on high for 1.5 - 2 hours
+6) While bones are cooking, bring another, smaller pot, to boil and add vegetables
+7) Combine both pots after 2 hours. 
+8) Continue to boil main pot until reduced enough
+9) Add salt, soy sauce, and dash of Siracha.",1,5,14
+50,Grilled Lemon-Garlic Chicken Breast with Fennel and Arugula Salad,Chicken,106,No Region,Salad,false,false,false,true,2019-03-12 17:18:46.007801,2019-12-09 16:18:10.941515,,1,5,12
+60,Grilled Cheese - Vegan/Gluten Free,Vegetarian,NULL,American,Main Dish,false,true,true,true,2019-08-25 20:00:14.037681,2020-04-20 16:20:04.753659,,2,5,14
+63,Hot and Spicy Harissa,Vegetarian,86,No Region,Sauce / Dressing,false,true,true,true,2019-10-27 19:51:14.419936,2019-11-01 15:42:29.527558,,2,5,1
+68,Pickled Red Onion,Vegetarian,241,No Region,Sauce / Dressing,false,true,true,true,2019-10-27 20:18:46.299023,2019-10-27 20:18:46.299023,,2,5,3
+64,"Eggplant Pizzas with Brazil Nut Parmesan ""Cheese""",Vegetarian,113,Italian,Main Dish,false,true,true,true,2019-10-27 19:59:39.193793,2019-11-01 15:42:51.533297,,2,5,1
+69,Pickled Jalapenos,Vegetarian,115,No Region,Sauce / Dressing,false,true,true,true,2019-10-27 20:23:08.914847,2019-11-01 15:43:02.284932,,2,5,3
+67,Cashew Milk,Vegetarian,239,No Region,Sauce / Dressing,false,true,true,true,2019-10-27 20:17:07.917065,2019-11-01 15:43:25.373869,,1,5,3
+49,Shredded Chicken,Chicken,97,Mexican,Main Dish,false,false,false,true,2019-03-12 17:13:25.663384,2020-07-08 14:45:41.410222,,1,3,14
+53,Sweet Potato Fries,Vegetarian,NULL,No Region,Side Dish,false,true,true,true,2019-04-16 16:42:30.334939,2020-07-14 14:20:53.096619,,3,5,14
+28,Brocoli - Steamed,Vegetarian,NULL,,Side Dish,true,true,true,true,2019-02-06 20:38:15.754199,2020-05-20 22:52:00.694243,,2,3,14
+43,Shepard's Pie,Bison,350,American,Main Dish,false,false,false,true,2019-02-11 23:29:11.614284,2020-05-20 22:49:28.446635,,2,5,11
+44,Grilled Artichoke,Vegetarian,NULL,No Region,Side Dish,false,true,true,true,2019-02-17 23:41:03.402348,2020-05-20 22:49:44.487444,,1,5,14
+36,Sweet Potato and Kale Hash,Pork,33,No Region,Main Dish,true,false,false,true,2019-02-11 20:18:25.087171,2020-07-14 14:24:29.22924,,2,5,16
+27,Black Bean Quesadillas,Vegetarian,107,Mexican,Main Dish,true,true,true,true,2019-02-06 18:18:16.162279,2020-07-14 14:23:15.60262,"""Sour Cream"" Directions:
+
+1) Place sunflower seeds, water salt, apple cider vinegar, and lemon juice in blender and puree 3-4 minutes or until smooth and creamy.
+
+Quesadilla Directions:
+
+1) Heat Olive Oil in a medium-sized skillet. 
+
+2) Add the onions, garlic, and a pinch of salt and saute for a couple mins. 
+
+3) Add the refried beans, another pinch of salt, and saute a couple more mins. 
+
+4) When all the ingredients are thoroughly combined, transfer to a medium-sized bowl. 
+
+5) Prepare remaining toppings (tomatoes, avocado, lettuce) and place in small bowls next to skillet. 
+
+6) Heat Olive oil on medium high.  Spead a thin layer of beans on half of the tortilla, and a thin layer of sour cream on the other half.  Place in skillet. 
+
+7) Add the toppings to the bean side and fold over the sour cream side.  
+
+8) Cook on both sides until brown.  
+",1,5,1
+9,Eccentric Caesar Salad w/ Chicken,Chicken,61,No Region,Salad,false,false,false,true,2019-01-05 17:05:33.494046,2020-07-14 14:23:27.071575,"Make Dressing: 
+
+1) Combine cashews, oil, lemon juice, yeast, mustard, garlic, salt, curry powder, and pepper in Vitamix
+
+2) Add 1/4 and 3 tablespoons water and blend until smooth. 
+
+Salad:
+
+1) Toss romaine with 1/2 cup dressing.  
+
+2) Divide to plates.
+
+3) Top with avacado, hemp seed, and capers. ",1,5,10
+25,Bison Burger,Bison,NULL,American,Main Dish,true,false,false,true,2019-02-05 22:23:31.740409,2020-07-14 14:24:44.498227,,1,5,14
+26,Smashed Avocado Kale Salad,Vegetarian,NULL,,Salad,false,false,false,false,2019-02-05 22:35:16.748603,2020-07-14 14:22:11.669682,,1,5,16
+65,Grilled Pork Chop,Pork,NULL,No Region,Main Dish,false,false,false,false,2019-10-27 20:03:48.071996,2020-07-14 14:22:29.894955,,1,5,14
+51,Salmon Tacos,Salmon,NULL,,Main Dish,false,false,false,false,2019-03-17 22:51:02.478515,2020-07-14 14:22:42.014641,,1,3,14
+47,Guajillo Chile Enchilada Sauce,Vegetarian,72,Mexican,Sauce / Dressing,false,true,true,true,2019-03-12 17:00:00.038766,2020-07-14 14:21:49.370922,,1,5,7
+56,Chimichurri,Vegetarian,114,Mexican,Sauce / Dressing,false,true,true,true,2019-08-02 18:59:56.494794,2020-07-14 14:22:00.508815,Combine all the ingredients in a small bowl and mix thoroughly.  Or place all the ingredients in a food processor and pulse until smooth.,2,5,7
+70,Honey Walnut Vinaigrette,Vegetarian,78,No Region,Sauce / Dressing,true,true,true,true,2019-11-17 16:08:05.997038,2020-07-14 14:25:26.14161,,2,NULL,16
+71,Breakfast Sausage,Pork,NULL,American,Main Dish,false,false,false,false,2020-03-31 14:13:01.557968,2020-04-20 16:20:33.596978,,2,5,14
+38,Chicken Fingers,Chicken,105,American,Main Dish,false,false,false,true,2019-02-11 20:34:10.156568,2020-05-08 15:15:21.789773,,2,5,16
+62,Bison Chili,Bison,110,American,Main Dish,false,false,false,false,2019-10-01 18:59:49.398377,2020-07-08 14:46:01.176318,"1) In a large pot, heat the olive oil over medium-high heat.  Add the ground bison and season with the salt and pepper.  Cook, stirring occasionally, to brown the meat for 3 to 5 minutes.  Add the onion and saute for 2 minutes.  Add the garlic and continue cooking for another 2 minutes while stirring.   Add the cumin, chili powder, ancho chili powder, and red pepper flakes.  Stir and cook for another minute.  Add the tomatoes, beans, and Chicken Stock.  Stir well and bring to a simmer.  Reduce the heat to low and immer for 30 minutes, stirring often to prevent sticking.  
+
+2) Add the chocolate, dried oregano, paprika, cinnamon, and salt.  Stir and let simmer for another 15 minutes.  Add the fresh oregano.  Adjust the seasoning.  Simmer for 5 minutes. 
+
+3) Ladle into the bowls and serve with desired accompaniments.  ",2,5,3
+11,Chicken Cacciatore,Chicken,334,Italian,Main Dish,false,false,false,false,2019-01-05 17:26:32.067602,2020-05-20 22:48:25.609309,"1) In a large skillet with large sides, heat 2 tablespoons of Olive Oil over medium-high heat.  
+
+2) Season the Chicken with salt and pepper and place in pan. 
+
+3) Sear Chicken until golden brown on both sides, about 3 mins each side. 
+
+4) Remove Chicken from the pan and set aside. 
+
+5) With the same pan add the reaming Olive Oil, Onions, Peppers and saute for 2 to 3 mins, until the onion becomes translucent. 
+
+6) Add the Mushrooms and continue to cook, stirring for about 2 mins. 
+
+7) Add the Garlic and stir until aromatic, about 1 min. 
+
+8) Add the Capers and Diced Tomatoes. 
+
+10) Return the Chicken to the pan and cover everything with Chicken Broth.
+
+11) Turn the heat down to low and continue to simmer until chicken reaches 160 degrees. 
+
+12) Garnish with Fresh Basil and serve.",2,5,11
+16,Rotisserie Chicken - Rosemary,Chicken,NULL,No Region,Main Dish,false,false,false,false,2019-01-16 22:44:44.548352,2020-05-20 22:48:54.333188,"1) Rinse Chicken under warm water.
+
+2) Cut Onion, Lemon, and Rosemary.  Stuff in Chicken. 
+
+3) Tie up chicken. 
+
+4) Mix together Olive Oil, Garlic, and Rosemary
+
+5) Put on Grill and rotate at high speed for an hour and 1/2. ",1,5,14
+22,Roasted Tomato Soup with Garlic Croutons,Vegetarian,40,,Soup,false,true,true,true,2019-01-27 15:50:21.008977,2020-06-01 22:55:24.816163,"1) Arrange an oven rack at the center position and preheat oven to 375 degrees.  Oil a heavy, rimmed baking sheet very generously with olive oil. 
+
+2) Halve tomatoes lengthwise and remove membrane, seeds, and stems.  As you preparing the tomatoes, place them cut side down on a large plate or platter to drain. 
+
+3) In a large bowl, mix together the pepper, 1 1/8 teaspoon salt, and the rosemary. Add the garlic and 1/2 cup olive oil and whisk to blend.  Add the tomatoes to the blend and toss well to coat.  Marinate tomatoes for 15 minutes.  
+
+4) Arrange Tomatoes, cut side up, on the prepared baking sheet.  Drizzle any remaining oil in the bowl over them. 
+
+5) Roast until tomatoes are softened and are browed on the bottom and around the edges, for 50-60 mins, watching carefully to prevent overcooking.  Remove baking sheet from oven. 
+
+6) Place half of the tomatoes in a food processor fitted with metal blade.  Pour in 1 cup of the stock and pulse until pureed. 
+
+7) Coursely chope the remaining half the the tomatoes.  IN a medium deep-sided saucepan, combine the chpped tomatoes, pureed tomatoe mixture, and remaining 2 1/2 cups chicken stock and bring to simmer over medium heat.  Salt as needed. ",2,3,9
+10,Evil Green Hot Sauce,Vegetarian,52,Mexican,Sauce / Dressing,false,true,true,true,2019-01-05 17:13:54.381294,2020-07-08 14:45:50.383933,"1) Place tomatillos, onion, garlic, and chiles in 2-quart saucepan. 
+
+2) Barely cover with water and add the salt. 
+
+3) Bring to a simmer and cook until the tomatillos are soft but not falling apart - about 7 minutes. 
+
+4) Turn off heat and let cool for 5 minutes. 
+
+5) Transfer vegetables and cooking liquid to blend.  Add the cilantro and vinegar and puree until completely smooth. 
+
+6) Thin with water if needed and adjust salt and vinegar to taste.",1,5,7
+45,Bison Enchiladas,Bison,NULL,Mexican,Main Dish,false,false,false,false,2019-02-22 18:18:49.126738,2020-07-14 14:21:40.583023,,2,5,14
+66,Champagne Vinaigrette,Vegetarian,232,No Region,Sauce / Dressing,false,true,true,true,2019-10-27 20:14:07.528409,2020-07-14 14:22:53.53179,,1,5,3
+61,Chicken Wings,Chicken,NULL,American,Main Dish,true,false,false,true,2019-08-25 20:19:21.705829,2020-07-14 14:25:43.617774,,1,5,14
