@@ -55,7 +55,7 @@ module Api::V1
             :directions,
             :multiplier,
             :health_factor,
-            :front_end_id)
+            :cookbook_id)
     end
 
   end
