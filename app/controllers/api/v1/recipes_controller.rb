@@ -7,7 +7,6 @@ module Api::V1
 
     def show
       @recipe = Recipe.find(params[:id])
-      render json: @recipe
     end
 
     def create
@@ -21,11 +20,11 @@ module Api::V1
     end
 
     def update
-      @recipes = Recipe.find(params[:id])
-      if @recipes.update(recipe_params)
-        render json: @recipes
+      @recipe = Recipe.find(params[:id])
+      if @recipe.update(recipe_params)
+        render json: @recipe
       else
-        render json: @recipes.errors, status: :unprocessable_entity
+        render json: @recipe.errors, status: :unprocessable_entity
       end
     end
 
