@@ -6,8 +6,8 @@ namespace :import do
     task cookbooks: :environment do 
         filename = File.join Rails.root, "cookbooks.csv"
         CSV.foreach(filename) do |row|
-            id, name = row
-            Cookbook.create(name: name, id: id)
+            name = row
+            Cookbook.create(name: name)
         end
     end
 
@@ -35,8 +35,8 @@ namespace :import do
     task ingredients: :environment do 
         filename = File.join Rails.root, "ingredients.csv"
         CSV.foreach(filename) do |row|
-            id,name,category,created_at,updated_at = row
-            Ingredient.create!(id: id, 
+            name,category = row
+            Ingredient.create!(
                         name: name,
                         category: category, 
                        )

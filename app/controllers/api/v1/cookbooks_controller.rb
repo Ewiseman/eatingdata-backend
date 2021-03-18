@@ -3,12 +3,10 @@ module Api::V1
 
     def index
       @cookbooks = Cookbook.all
-      # render json: @cookbooks
     end
 
     def show
       @cookbook = Cookbook.find(params[:id])
-      # render json: @cookbooks
     end
 
     def create

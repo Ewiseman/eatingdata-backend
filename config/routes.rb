@@ -12,6 +12,12 @@ Rails.application.routes.draw do
       get '/cookbooks/:id', to: 'cookbooks#show'
       patch '/cookbooks/:id', to: 'cookbooks#update'
       delete '/cookbooks/:id', to: 'cookbooks#destroy'
+
+      get '/ingredients', to: 'ingredients#index'
+      post '/ingredients', to: 'ingredients#create'
+      get '/ingredients/:id', to: 'ingredients#show'
+      patch '/ingredients/:id', to: 'ingredients#update'
+      delete '/ingredients/:id', to: 'ingredients#destroy'
     end
   end
 end
