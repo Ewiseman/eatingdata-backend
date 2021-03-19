@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2021_03_10_164026) do
+ActiveRecord::Schema.define(version: 2021_03_19_162015) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -47,7 +47,6 @@ ActiveRecord::Schema.define(version: 2021_03_10_164026) do
     t.boolean "on_the_menu", default: false
     t.boolean "vegetarian", default: false
     t.boolean "vegan", default: false
-    t.boolean "dairy_free", default: false
     t.text "directions"
     t.integer "multiplier", default: 1
     t.integer "health_factor"

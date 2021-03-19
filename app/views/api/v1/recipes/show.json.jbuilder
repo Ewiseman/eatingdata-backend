@@ -1,4 +1,4 @@
-json.(@recipe, :id, :name, :on_the_menu, :directions)
+json.(@recipe, :id, :name, :protein, :cusine_region, :type_of_food, :vegetarian, :vegan, :health_factor, :on_the_menu, :directions)
 json.cookbook @recipe.cookbook.name
 
 json.measurements @recipe.measurements do |measurement|

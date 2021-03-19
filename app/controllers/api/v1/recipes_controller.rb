@@ -50,10 +50,10 @@ module Api::V1
             :on_the_menu,
             :vegetarian,
             :vegan,
-            :dairy_free,
             :directions,
             :multiplier,
             :health_factor,
+            :type_of_food,
             :cookbook_id)
     end
 
